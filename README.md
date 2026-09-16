@@ -1,27 +1,50 @@
-# AIClient2API
+<!-- README ini dihasilkan otomatis oleh .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual: perubahan akan ditimpa pada run berikutnya. -->
 
+<h1 align="center">AIClient2API 👋</h1>
 
-
-## 📋 Overview
-
-This repository contains **6 files** and is built with the following technologies:
-
-Not detected
-
-## 🚀 Quick Start
-
-## ✨ Features
-
-- 📝 Auto-generated documentation
-
-## 🛠️ Technologies
-
-Not detected
-
-## 📄 License
-
-MIT License
+<p align="center">
+  <a href="https://github.com/antono4/AIClient2API"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/AIClient2API-blue?logo=github"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-1-informational">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/antono4/AIClient2API">
+</p>
 
 ---
-*Last updated: 2026-09-16 08:38:18 WIB*
-Last updated: 2026-09-16 08:46:39 WIB
+
+## 📖 Tentang
+
+Repository **`AIClient2API`** adalah proyek perangkat lunak.
+GitHub Pages belum diaktifkan untuk repository ini.
+
+## 🗂️ Struktur Proyek
+
+```
+AIClient2API/
+.github/
+  workflows/
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan ekstensi berkas yang terdeteksi di repository:
+
+- `Tidak`
+- `terdeteksi`
+
+> Total **1 berkas** di repository (di luar `.git`, `node_modules`, `dist`, dan `build`).
+
+## 🚀 Menjalankan Secara Lokal
+
+Lihat berkas konfigurasi di repository ini untuk cara menjalankannya.
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah MIT License — lihat berkas [`LICENSE`](./LICENSE).
+
+---
+
+<sub>README ini di-generate otomatis oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
