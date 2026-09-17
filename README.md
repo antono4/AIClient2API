@@ -1,50 +1,66 @@
-<!-- README ini dihasilkan otomatis oleh .github/workflows/generate-readme.yml -->
-<!-- Jangan edit manual: perubahan akan ditimpa pada run berikutnya. -->
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-<h1 align="center">AIClient2API 👋</h1>
+<h1 align="center">Project 👋</h1>
+
+<p align="center">
+  <strong></strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/antono4/AIClient2API"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/AIClient2API-blue?logo=github"></a>
-  <img alt="Files" src="https://img.shields.io/badge/Files-1-informational">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/antono4/AIClient2API">
+  <a href="https://antono4.github.io/AIClient2API/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-4-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-18 06:18:28 WIB-lightgrey">
 </p>
 
 ---
 
 ## 📖 Tentang
 
-Repository **`AIClient2API`** adalah proyek perangkat lunak.
-GitHub Pages belum diaktifkan untuk repository ini.
+Repository **`AIClient2API`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/AIClient2API/`](https://antono4.github.io/AIClient2API/).
 
 ## 🗂️ Struktur Proyek
 
 ```
 AIClient2API/
-.github/
-  workflows/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
 ```
 
 ## 🛠️ Teknologi
 
-Berdasarkan ekstensi berkas yang terdeteksi di repository:
+Berdasarkan isi repository, proyek ini menggunakan:
 
-- `Tidak`
-- `terdeteksi`
+- `HTML`
+- `CSS`
+- `JavaScript`
 
-> Total **1 berkas** di repository (di luar `.git`, `node_modules`, `dist`, dan `build`).
+> Total **4 file** terdeteksi di repository.
 
 ## 🚀 Menjalankan Secara Lokal
 
-Lihat berkas konfigurasi di repository ini untuk cara menjalankannya.
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
 
 ## 📬 Kontak
 
 - GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/AIClient2API/](https://antono4.github.io/AIClient2API/)
 
 ## 📄 Lisensi
 
-Proyek ini dilisensikan di bawah MIT License — lihat berkas [`LICENSE`](./LICENSE).
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
+<sub>README ini di-generate otomatis pada **2026-09-18 06:18:28 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
